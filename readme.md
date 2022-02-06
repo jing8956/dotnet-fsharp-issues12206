@@ -1,0 +1,5 @@
+- This is a sample solution for dotnet fsharp issues [#12206](https://github.com/dotnet/fsharp/issues/12206) and visual studio [report](https://developercommunity.visualstudio.com/t/f-fs0001-cant-implementing-a-generic-interface-def/1549582)
+- This issue proves that F# is not fully compatible with the .NET type system.
+- Operating system: Windows 10 Pro 21H2 (19044.1503)
+- .NET SDK version: 6.0.101
+- Editing Tools: Microsoft Visual Studio Community 2022 Version 17.0.5
